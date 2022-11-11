@@ -1,0 +1,59 @@
+---
+bibleKeys : 
+- 1 Samuel 16
+- 1 S 16
+tags : 
+- Bible/1S/16
+- français
+cssclass : français
+direction : ltr
+---
+
+# 1 Samuel 16
+
+###### 1
+Le Seigneur dit à Samuel : « Combien de temps encore seras-tu en deuil à cause de Saül ? Je l’ai rejeté pour qu’il ne règne plus sur Israël. Prends une corne que tu rempliras d’huile, et pars ! Je t’envoie auprès de Jessé de Bethléem, car j’ai vu parmi ses fils mon roi. »
+###### 2
+Samuel répondit : « Comment faire ? Saül va le savoir, et il me tuera. » Le Seigneur reprit : « Emmène avec toi une génisse, et tu diras que tu viens offrir un sacrifice au Seigneur.
+###### 3
+Tu convoqueras Jessé au sacrifice ; je t’indiquerai moi-même ce que tu dois faire et tu me consacreras par l’onction celui que je te désignerai. »
+###### 4
+Samuel fit ce qu’avait dit le Seigneur. Quand il parvint à Bethléem, les anciens de la ville allèrent à sa rencontre en tremblant, et demandèrent : « Est-ce pour la paix que tu viens ? »
+###### 5
+Samuel répondit : « Oui, pour la paix. Je suis venu offrir un sacrifice au Seigneur. Purifiez-vous, et vous viendrez avec moi au sacrifice. » Il purifia Jessé et ses fils, et les convoqua au sacrifice.
+###### 6
+Lorsqu’ils arrivèrent et que Samuel aperçut Éliab, il se dit : « Sûrement, c’est lui le messie, lui qui recevra l’onction du Seigneur ! »
+###### 7
+Mais le Seigneur dit à Samuel : « Ne considère pas son apparence ni sa haute taille, car je l’ai écarté. Dieu ne regarde pas comme les hommes : les hommes regardent l’apparence, mais le Seigneur regarde le cœur. »
+###### 8
+Jessé appela Abinadab et le présenta à Samuel, qui dit : « Ce n’est pas lui non plus que le Seigneur a choisi. »
+###### 9
+Jessé présenta Shamma, mais Samuel dit : « Ce n’est pas lui non plus que le Seigneur a choisi. »
+###### 10
+Jessé présenta ainsi à Samuel ses sept fils, et Samuel lui dit : « Le Seigneur n’a choisi aucun de ceux-là. »
+###### 11
+Alors Samuel dit à Jessé : « N’as-tu pas d’autres garçons ? » Jessé répondit : « Il reste encore le plus jeune, il est en train de garder le troupeau. » Alors Samuel dit à Jessé : « Envoie-le chercher : nous ne nous mettrons pas à table tant qu’il ne sera pas arrivé. »
+###### 12
+Jessé le fit donc venir : le garçon était roux, il avait de beaux yeux, il était beau. Le Seigneur dit alors : « Lève-toi, donne-lui l’onction : c’est lui ! »
+###### 13
+Samuel prit la corne pleine d’huile, et lui donna l’onction au milieu de ses frères. L’Esprit du Seigneur s’empara de David à partir de ce jour-là. Quant à Samuel, il se mit en route et s’en revint à Rama.
+###### 14
+L’Esprit du Seigneur se détourna de Saül, et un esprit mauvais, envoyé par le Seigneur, se mit à le tourmenter.
+###### 15
+Les serviteurs de Saül lui dirent : « Voici qu’un mauvais esprit de Dieu te tourmente.
+###### 16
+Un seul mot de notre maître, et les serviteurs qui sont devant toi chercheront un bon joueur de cithare ; ainsi, quand un mauvais esprit de Dieu viendra sur toi, cet homme jouera de son instrument, et cela te fera du bien. »
+###### 17
+Saül répondit à ses serviteurs : « Voyez donc s’il n’y a pas pour moi un homme qui soit un bon musicien, et amenez-le-moi. »
+###### 18
+L’un des garçons prit la parole et dit : « J’ai vu, justement, un fils de Jessé, de Bethléem, qui sait jouer. C’est un homme de valeur, un vaillant guerrier ; il parle avec intelligence ; c’est un bel homme et le Seigneur est avec lui ! »
+###### 19
+Alors Saül envoya à Jessé des messagers pour lui dire : « Envoie-moi ton fils David, qui est avec le troupeau. »
+###### 20
+Jessé prit un âne qu’il chargea de pains, ainsi qu’une outre de vin et un chevreau, et il envoya son fils David les porter à Saül.
+###### 21
+David arriva auprès de Saül et se tint à sa disposition. Saül aima beaucoup David qui devint son écuyer.
+###### 22
+Saül envoya dire à Jessé : « Que David se tienne donc à ma disposition, car il a trouvé grâce à mes yeux. »
+###### 23
+Ainsi, lorsque l’Esprit de Dieu venait sur Saül, David prenait la cithare et en jouait. Alors Saül se calmait et se trouvait bien : l’esprit mauvais s’écartait de lui.

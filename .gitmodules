@@ -1,0 +1,30 @@
+[submodule "Textes/SummaTheologiae"]
+	path = Textes/SummaTheologiae
+	url = https://github.com/AnthropologieBiblique/SummaTheologiae
+[submodule "Textes/SommeTheologique"]
+	path = Textes/SommeTheologique
+	url = https://github.com/AnthropologieBiblique/SommeTheologique
+[submodule "Bible/AELF"]
+	path = Bible/AELF
+	url = https://github.com/AnthropologieBiblique/AELF
+[submodule "Bible/BHS"]
+	path = Bible/BHS
+	url = https://github.com/AnthropologieBiblique/BHS
+[submodule "Bible/BJ"]
+	path = Bible/BJ
+	url = https://github.com/AnthropologieBiblique/BJ
+[submodule "Bible/COM"]
+	path = Bible/COM
+	url = https://github.com/AnthropologieBiblique/COM
+[submodule "Bible/LXX"]
+	path = Bible/LXX
+	url = https://github.com/AnthropologieBiblique/LXX
+[submodule "Bible/PST"]
+	path = Bible/PST
+	url = https://github.com/AnthropologieBiblique/PST
+[submodule "Bible/VG"]
+	path = Bible/VG
+	url = https://github.com/AnthropologieBiblique/VG
+[submodule "Gabarits"]
+	path = Gabarits
+	url = https://github.com/AnthropologieBiblique/ObsidianTemplaterScripts

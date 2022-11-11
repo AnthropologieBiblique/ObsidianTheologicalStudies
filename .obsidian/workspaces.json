@@ -1,0 +1,1914 @@
+{
+  "workspaces": {
+    "Chapter 1": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "d299be57058ea624",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e76bb3e796edc8ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/AELF/AELF.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cf18bba05f95bf29",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jn.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2b27148c8536f4cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Bible/Jn/1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb7bcaaf381e2369",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 507.5
+      },
+      "active": "bb7bcaaf381e2369"
+    },
+    "Chapter 1.1": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "9065051cbd5973d7",
+            "type": "split",
+            "children": [
+              {
+                "id": "cbe9f2e9d6dbf7e7",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "973f74d1ed368ba7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Bible/PST/Livres/Jean/PST Jn 1.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "554904cf444a2cbb",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "e2cf2d606f37e82a",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "b1bb968f3f71a94d",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Bible/VG/Livres/secundum Ioannem/VG Jn 1.md",
+                            "mode": "preview",
+                            "backlinks": false,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2372838f959454fb",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "dbf0f3a145509db2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                            "mode": "preview",
+                            "backlinks": false,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Bible/Jn/1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 225.5
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7151311a9df6b8bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Bible/PST/Livres/Jean/PST Jn 1.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Bible/PST/Livres/Jean/PST Jn 1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 430.5
+      },
+      "active": "973f74d1ed368ba7"
+    },
+    "Chapter 1.2": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "4062e5b93f9aaea8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce25aa9ac97c341a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Texts/SummaTheologiae/Prima Pars/Quaestio 1/Ia, q. 1, a. 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "99330202fecc96df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5be58bd3673bc97c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Texts/SommeTheologique/Prima Pars/QUESTION 1 : LA DOCTRINE SACRÉE. QU'EST-ELLE ? A QUOI S'ÉTEND-ELLE ?/CERF Ia, q. 1, a. 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21b3590f091162b8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 507.5
+      },
+      "active": "21b3590f091162b8"
+    },
+    "Onboarding": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "31f8076e4310298d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f37a1b7c9013b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Bible/Jn/1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 507.5,
+        "collapsed": true
+      },
+      "active": "5f37a1b7c9013b2d"
+    },
+    "Chapter 2.1": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "fdc2d24d00c79b01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b8d78bdfeaba8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Types of Bible links.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c7604810d276c5ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "c7604810d276c5ec"
+    },
+    "Chapter 2.2": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "fdc2d24d00c79b01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b8d78bdfeaba8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Standard Bible & Other Bibles.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "624bdee014b9d1ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Showcase/Standard Bible & Other Bibles.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Showcase/Standard Bible & Other Bibles.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "3b8d78bdfeaba8a5"
+    },
+    "Chapter 2.3": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "fdc2d24d00c79b01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "76f1d5cc0291f1d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Sandbox express quote.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "624bdee014b9d1ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "624bdee014b9d1ee"
+    },
+    "Chapter 2.4": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "cbc15a11484b8009",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1867a3e56f2b9407",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Sandbox Detailed quote.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "624bdee014b9d1ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "624bdee014b9d1ee"
+    },
+    "Chapter 3.1": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "f42474cdaabd4168",
+            "type": "split",
+            "children": [
+              {
+                "id": "cbc15a11484b8009",
+                "type": "tabs",
+                "dimension": 71.60194174757282,
+                "children": [
+                  {
+                    "id": "991eb829920ddd0e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "529ec60a829eb0f2",
+                "type": "tabs",
+                "dimension": 28.398058252427184,
+                "children": [
+                  {
+                    "id": "c7a769e4c94c16f4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Demo/Showcase/Another note on Jn 1 with verse references.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4b96eb0b0d2b6f8a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Demo/Showcase/Note on Jean 1 with verse references.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1,
+                "stacked": true
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "dimension": 49.271844660194176,
+            "children": [
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "note",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ebe0b71006749702",
+            "type": "tabs",
+            "dimension": 50.728155339805824,
+            "children": [
+              {
+                "id": "b92fdda19a9e5e67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 3.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "991eb829920ddd0e"
+    },
+    "Chapter 3.2": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "cbc15a11484b8009",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "991eb829920ddd0e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "dimension": 49.271844660194176,
+            "children": [
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Bible/AELF/Livres/Jean/Jn 1.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ebe0b71006749702",
+            "type": "tabs",
+            "dimension": 50.728155339805824,
+            "children": [
+              {
+                "id": "b92fdda19a9e5e67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 3.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "991eb829920ddd0e"
+    },
+    "Chapter 3.3": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "cbc15a11484b8009",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "991eb829920ddd0e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/COM/Livres/Jean/COM Jn 1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7aeb1aa501d10eb8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Note on Jean 1 with verse references.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8617bb1e273c4050",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Another note on Jn 1 with verse references.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#Summa/Ia/q.1/a.1",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b92fdda19a9e5e67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 3.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 3.md",
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 3.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "b92fdda19a9e5e67"
+    },
+    "Chapter 4.1": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "ed30d2c81dd34a83",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6e32280f8e22543b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Showcase/Work on inspiration.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df6e69ae72a69da6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Chapter 4.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Demo/Showcase/Work on inspiration.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Demo/Showcase/Work on inspiration.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "6e32280f8e22543b"
+    },
+    "Conclusion": {
+      "main": {
+        "id": "83ef030dd1106234",
+        "type": "split",
+        "children": [
+          {
+            "id": "220350656f08f704",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24b8cc88b1d1c80c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LINKS & CREDITS.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2396dc880e8dbe4b",
+        "type": "split",
+        "children": [
+          {
+            "id": "671eb4851666eb21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f25df9d85b6feb8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b6ffe2f549b3be69",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4aba302ae8582079",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "673ba618d4b9116d",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec9cf82a5e517d0d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17cfe868addb5be1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Demo/Tour/Conclusion.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "512111bf13bdffff",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "LINKS & CREDITS.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1cec597d74ce7ce7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "LINKS & CREDITS.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 544.5
+      },
+      "active": "24b8cc88b1d1c80c"
+    }
+  },
+  "active": "Onboarding"
+}

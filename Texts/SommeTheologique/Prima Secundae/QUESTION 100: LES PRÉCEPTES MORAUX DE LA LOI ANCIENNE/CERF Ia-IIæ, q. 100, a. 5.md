@@ -1,0 +1,55 @@
+---
+tags : 
+- Summa/Ia-IIæ/q.100/a.5
+---
+
+### Le dénombrement des préceptes du décalogue est-il satisfaisant?
+
+###### arg. 1
+« Transgresser la loi divine, désobéir aux ordres du ciel », c'est ainsi que S. Ambroise définit le péché. Or on distingue les péchés suivant qu'on les commet contre Dieu, contre le prochain ou contre soi-même. L'énumération des préceptes du décalogue n'est donc pas suffisante, puisque, s'il s'y trouve des préceptes relatifs à Dieu et au prochain, on n'en trouve aucun pour diriger l'homme envers soi-même. 
+
+###### arg. 2
+Le culte divin appelait, tout autant que l'observance du sabbat, celle des autres fêtes, ainsi que l'offrande des sacrifices. Le décalogue mentionne l'observance du sabbat, mais aurait dû comporter quelques préceptes relatifs aux autres fêtes et aux sacrifices rituels. 
+
+###### arg. 3
+Contre Dieu, on pèche non seulement par le parjure, mais encore par le blasphème, voire par toute fausseté s'opposant à l'enseignement divin. A côté du précepte interdisant le parjure « Tu ne prendras pas le nom de ton Dieu en vain », le décalogue devait donc, par des préceptes spéciaux, interdire les péchés de blasphème et d'enseignement hétérodoxe. 
+
+###### arg. 4
+L'homme chérit naturellement ses parents, mais aussi ses enfants; d'ailleurs la charité embrasse le prochain dans son ensemble. Puisque les préceptes du décalogue sont ordonnés à la charité, selon le mot de S. Paul: « La charité est la fin du précepte » (1 Tm 1, 5), outre celui qui concerne les parents, il en fallait aussi touchant les enfants et les autres catégories de prochain. 
+
+###### arg. 5
+En toute espèce de péché, on peut pécher par pensée et par action. Or voici des espèces de péchés, le vol et l'adultère, qui font l'objet d'une double interdiction, l'une portant sur le péché d'action: « Tu ne commettras pas d'adultère, Tu ne déroberas pas », l'autre portant sur le péché de pensée: « Tu ne convoiteras pas le bien d'autrui, Tu ne désireras pas sa femme. » Il fallait en faire autant pour le péché d'homicide et de faux témoignage. 
+
+###### arg. 6
+Le péché peut naître d'un désordre de l'irascible aussi bien que d'un désordre du concupiscible. Puisqu'il y a des préceptes pour mettre en garde contre une convoitise désordonnée, il devait aussi y en avoir pour empêcher le désordre de l'irascible. Bref, on a le sentiment que ce nombre de dix pour les préceptes du décalogue n'est pas satisfaisant. 
+
+###### s.c.
+il est écrit au Deutéronome (4, 13): « Dieu vous a fait connaître son alliance qu'il vous a commandé d'observer, et les dix paroles qu'il a écrites sur deux tables de pierre. » 
+
+###### resp.
+On l'a dit plus haut, de même que les préceptes de la loi humaine disposent l'homme en vue d'une société humaine, de même les préceptes de la loi divine disposent l'homme en vue d'une sorte de société ou de cité des hommes soumise à Dieu. Or deux conditions sont requises si l'on veut vivre des jours heureux dans une société: d'abord se comporter comme il faut envers celui qui exerce l'autorité, ensuite être en règle avec les autres membres et compagnons engagés dans cette société. Il faut donc que la loi divine édicté d'abord certains préceptes qui règlent les rapports de l'homme avec Dieu, puis d'autres préceptes qui règlent les rapports de chacun avec ceux qui, comme lui et près de lui, vivent sous l'autorité de Dieu. 
+
+Au chef de la société, l'homme doit fidélité, respect et service. La fidélité au maître empêche essentiellement que l'hommage de souveraineté soit accordé à aucun autre; telle est la signification du premier précepte: « Tu n'auras pas d'autres dieux. » - Le respect du maître veut qu'on s'abstienne à son égard de toute attitude offensante et c'est l'objet du second précepte: « Tu ne prendras pas en vain le nom du Seigneur ton Dieu. » - Le maître a droit au service, en contrepartie des bienfaits qu'il dispense à ses sujets, et le troisième précepte y pourvoit, par la sanctification du sabbat en mémoire de la création. 
+
+Les justes rapports avec le prochain supposent deux conditions. A un titre spécial, il faut s'acquitter de ce que l'on doit envers ceux dont on a reçu: ici se place le précepte touchant le respect des parents. - A un titre général, envers tous sans exception, ne léser personne, ni de fait, ni en parole, ni en pensée. Par voie de fait, on nuit au prochain dans sa personne même, par atteinte à l'intégrité de son être, d'où suit la clause prohibitive: « Tu ne tueras point », - ou dans la personne qui lui est conjointe aux fins de la procréation, et cela est interdit par le précepte: « Tu ne commettras pas d'adultère »; - ou dans les biens qu'il possède et qui servent les deux buts susdits, ce qui est écarté par le précepte: « Tu ne déroberas pas ». Enfin la prohibition du faux témoignage réprime le péché de parole, et celle de la convoitise le péché de pensée. 
+
+On pourrait aussi appliquer cette division aux trois préceptes qui regardent Dieu. Le premier concerne l'action: « Tu ne feras pas d'image taillée »; le second la parole: « Tu ne prendras pas en vain le nom de ton Dieu », le troisième regarde les pensées, car la sanctification du sabbat, entendue comme un précepte moral, veut que la pensée se repose en Dieu. - S. Augustin dit encore autrement que, par le premier précepte, nous révérons l'unité du principe premier, par le second la vérité divine, et par le troisième la bonté de Dieu qui nous sanctifie et en qui nous trouvons le repos comme en notre fin. 
+
+###### ad 1
+La première difficulté comporte une double réponse. 1° Les préceptes du décalogue sont relatifs aux préceptes de la charité; or, s'il était nécessaire de prescrire à l'homme d'aimer Dieu et le prochain, la loi naturelle ayant été en cela obnubilée par le péché, cela n'était pas nécessaire en ce qui regarde l'amour de soi-même, parce que sur ce point la loi naturelle gardait sa force; - ou encore parce que l'amour de soi est inclus dans l'amour de Dieu et du prochain, vu que s'aimer vraiment, c'est se rapporter à Dieu. C'est encore une raison pour que le décalogue ne contienne de préceptes que relativement au prochain et à Dieu. - 2° Les préceptes du décalogue sont ceux que le peuple a reçus de Dieu sans intermédiaire; le Deutéronome (10, 4) le dit expressément: « Dieu a écrit sur les tables ce qu'il avait déjà écrit, les dix paroles que le Seigneur vous a adressées. » C'est donc une nécessité pour les préceptes du décalogue de pouvoir être compris immédiatement de tous les esprits. Or l'idée de précepte évoque essentiellement celle d'une dette; et que l'on soit tenu d'une dette envers Dieu ou envers le prochain, c'est ce que l'on comprend aisément, surtout si l'on a la foi; mais que l'homme soit tenu d'une dette rigoureuse envers soi-même et non envers autrui, cela ne saute pas aux yeux, car de prime abord chacun se sent libre dans les affaires qui ne concernent que soi. Aussi les préceptes qui interdisent à l'homme de se manquer à soi-même sont-ils communiqués au peuple par l'intermédiaire des sages qui l'instruisent, et ils ne relèvent pas du décalogue. 
+
+###### ad 2
+Toute les fêtes de la loi ancienne ont été instituées pour commémorer un bienfait de Dieu reçu dans le passé, ou pour préfigurer un bienfait à venir. Et c'est aux mêmes intentions que répondaient toutes les offrandes de sacrifices. Or, parmi tous les bienfaits divins dignes d'être commémorés le premier et le principal était celui de la création; c'est lui qui est rappelé dans la célébration du sabbat, puisque le fondement de ce précepte, selon l'Exode (20, 11), c'est que « Dieu fit le ciel et la terre en six jours ». Quant aux bienfaits à venir qui devaient être préfigurés, celui qui dépasse et achève tous les autres était le repos de l'âme en Dieu, ici-bas par la grâce, au jour futur par la gloire; cela aussi était représenté par la célébration du sabbat au sens où l'entendait Isaïe (58, 13): « Si tu évites de fouler aux pieds le sabbat, de suivre ton penchant en mon samt jour; si tu l'appelles sabbat de délices, et vénérable le jour saint du Seigneur. » A ces bienfaits-là tous les coeurs, surtout s'ils ont la foi, accordent le premier rang et une importance suprême; tandis que les bienfaits célébrés au cours des autres solennités n'avaient qu'un caractère partiel et provisoire: ainsi le rite pascal rappelait un bienfait passé, la délivrance d'Égypte, et annonçait la passion du Christ, cet événement qui s'est accompli à un moment du temps et qui nous fit entrer dans le repos d'un sabbat spirituel. On comprend donc que le sabbat, à l'exclusion de toute autre solennité et des sacrifices, soit seul mentionné parmi les préceptes du décalogue. 
+
+###### ad 3
+« Les hommes, dit l'épître aux Hébreux (6, 16), jurent par plus grand qu'eux, et toute contestation se termine par la garantie du serment. » On voit que tout le monde peut être amené à faire un serment, et donc qu'un précepte spécial du décalogue devait, en cette matière, exclure tout désordre. Mais le péché de fausseté dans la doctrine n'étant le fait que de quelques-uns, le décalogue n'avait pas à en faire état. Du reste, ce péché se trouve interdit, en un certain sens, par le précepte: « Tu ne prendras pas en vain le nom de ton Dieu », qu'une glose éclaire par cet exemple: Ne pas dire que le Christ serait une créature. 
+
+###### ad 4
+Ne léser personne est une requête immédiate de la raison naturelle, et les préceptes qui interdisent de nuire s'adressent à tout le monde. Mais intervenir positivement en faveur d'autrui, cela n'est pas dicté aussitôt par la raison naturelle, sauf s'il s'agit d'une dette. Or le devoir du fils à l'égard du père est si manifeste qu'il échappe à toute discussion, le père étant principe dans l'ordre de la génération et de l'existence, de l'éducation et de l'instruction. C'est pourquoi, en dehors des parents, nul précepte du décalogue ne prescrit de servir ou d'honorer qui que ce soit. Les parents, en revanche, au titre des bienfaits reçus, seraient plutôt les créanciers que les débiteurs de leurs enfants. - De plus, l'enfant est quelque chose de son père, remarque Aristote et « les pères aiment leurs enfants comme une part d'eux-mêmes ». Les raisons qui font que le décalogue n'impose à l'homme aucun précepte envers soi-même valent aussi touchant l'amour de ses enfants. 
+
+###### ad 5
+La délectation de l'adultère, l'avantage des richesses sont intrinsèquement désirables, à raison de leur caractère délectable ou utile; il fallait donc, ici, exclure non seulement l'acte, mais le désir. Au contraire, le prochain et la vérité étant naturellement objet d'amour, il y a quelque chose de si répugnant en soi dans le meurtre et le mensonge, qu'il faut, pour les désirer, quelque autre motif; par conséquent il suffisait à leur sujet de prohiber l'acte, sans mentionner le désir. 
+
+###### ad 6
+On sait que toutes les passions de l'irascible dérivent des passions du concupiscible. Dans ces premiers éléments de la loi que sont les préceptes du décalogue on n'avait donc pas à faire état des premières, mais seulement des secondes. 
+

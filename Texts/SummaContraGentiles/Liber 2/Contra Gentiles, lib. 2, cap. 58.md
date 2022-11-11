@@ -1,0 +1,40 @@
+---
+tags : 
+- SCG/lib.2/cap.58
+---
+
+### Quod nutritiva, sensitiva et intellectiva non sunt in homine tres animae
+
+###### n. 1
+Potest autem praedictis rationibus secundum opinionem Platonis obviari quantum ad praesentem intentionem pertinet. Ponit enim Plato non esse eandem animam in nobis intellectivam, nutritivam et sensitivam. Unde, etsi anima sensitiva sit forma corporis, non oportebit propter hoc dicere quod aliqua intellectualis substantia forma corporis esse possit.
+
+###### n. 2
+Quod autem hoc sit impossibile, sic ostendendum est.
+
+###### n. 3
+Quae attribuuntur alicui eidem secundum diversas formas, praedicantur de invicem per accidens: album enim dicitur esse musicum per accidens, quia Socrati accidit albedo et musica. Si igitur anima intellectiva, sensitiva et nutritiva sunt diversae virtutes aut formae in nobis, ea quae secundum has formas nobis conveniunt, de invicem praedicabuntur per accidens. Sed secundum animam intellectivam dicimur homines, secundum sensitivam animalia, secundum nutritivam viventia. Erit igitur haec praedicatio per accidens, homo est animal; vel, animal est vivum. Est autem per se: nam homo secundum quod est homo, animal est; et animal secundum quod est animal, vivum est. Est igitur aliquis ab eodem principio homo, animal et vivum.
+
+###### n. 4
+Si autem dicatur quod, etiam praedictis animabus diversis existentibus, non sequitur praedictae praedicationes fore per accidens, eo quod animae illae ad invicem ordinem habent: hoc iterum removetur. Nam ordo sensitivi ad intellectivum, et nutritivi ad sensitivum, est sicut ordo potentiae ad actum: nam intellectivum sensitivo, et sensitivum nutritivo posterius secundum generationem est; prius enim in generatione fit animal quam homo. Si igitur iste ordo facit praedicationes praedictas esse per se, hoc non erit secundum illum modum dicendi per se qui accipitur secundum formam, sed secundum illum qui accipitur secundum materiam et subiectum, sicut dicitur superficies colorata. Hoc autem est impossibile. Quia in isto modo dicendi per se, id quod est formale praedicatur per se de subiecto: ut cum dicimus, superficies est alba, vel, numerus est par. Et iterum in hoc modo dicendi per se subiectum ponitur in definitione praedicati: sicut numerus in definitione paris. Ibi autem e contrario accidit. Non enim homo per se praedicatur de animali, sed e converso: et iterum non ponitur subiectum in definitione praedicati, sed e converso. Non igitur praedictae praedicationes dicuntur per se ratione dicti ordinis.
+
+###### n. 5
+Praeterea. Ab eodem aliquid habet esse et unitatem: unum enim consequitur ad ens. Cum igitur a forma unaquaeque res habeat esse, a forma etiam habebit unitatem. Si igitur ponantur in homine plures animae sicut diversae formae, homo non erit unum ens, sed plura. Nec ad unitatem hominis ordo formarum sufficiet. Quia esse unum secundum ordinem non est esse unum simpliciter: cum unitas ordinis sit minima unitatum.
+
+###### n. 6
+Item. Adhuc redibit praedictum inconveniens, ut scilicet ex anima intellectiva et corpore non fiat unum simpliciter, sed secundum accidens tantum. Omne enim quod advenit alicui post esse completum, advenit ei accidentaliter: cum sit extra essentiam eius. Quaelibet autem forma substantialis facit ens completum in genere substantiae: facit enim ens actu et hoc aliquid. Quicquid igitur post primam formam substantialem advenit rei, accidentaliter adveniet. Cum igitur anima nutritiva sit forma substantialis, vivum enim substantialiter de homine praedicatur et de animali; sequetur quod anima sensitiva adveniat accidentaliter, et similiter intellectiva. Et sic neque animal neque homo significant unum simpliciter, neque aliquod genus aut speciem in praedicamento substantiae.
+
+###### n. 7
+Amplius. Si homo, secundum Platonis sententiam, non est aliquid ex anima et corpore compositum, sed est anima utens corpore, aut hoc intelligitur solum de anima intellectiva, aut de tribus animabus, si tres sunt, sive de duabus earum. Si autem de tribus vel duabus, sequitur quod homo non sit unum, sed sit duo vel tria: est enim tres animae, vel saltem duae. Si autem hoc intelligatur de anima intellectiva tantum, ita scilicet quod intelligatur anima sensitiva esse forma corporis, et anima intellectiva utens corpore animato et sensificato sit homo, sequentur adhuc inconvenientia: scilicet quod homo non sit animal, sed utatur animali, nam per animam sensitivam aliquid est animal; et quod homo non sentiat, sed utatur re sentiente. Quae cum sint inconvenientia, impossibile est tres animas substantia differentes esse in nobis, intellectivum, sensitivum et nutritivum.
+
+###### n. 8
+Adhuc. Ex duobus aut pluribus non potest fieri unum si non sit aliquid uniens, nisi unum eorum se habeat ad alterum ut actus ad potentiam: sic enim ex materia et forma fit unum, nullo vinculo extraneo eos colligante. Si autem in homine sint plures animae, non se habent ad invicem ut materia et forma, sed omnes ponuntur ut actus quidam et principia actionum. Oportet igitur, si uniantur ad faciendum aliquid unum, puta hominem vel animal, quod sit aliquid uniens. Hoc autem non potest esse corpus: cum magis corpus uniatur per animam; cuius signum est quod discedente anima, corpus dissolvitur. Relinquitur igitur quod oportet aliquid formalius esse quod facit ex illis pluribus unum. Et hoc magis erit anima quam illa plura quae per ipsum uniuntur. Si igitur hoc iterum est habens partes diversas, et non est unum secundum se, oportet adhuc esse aliquid uniens. Cum igitur non sit abire in infinitum, oportet devenire ad aliquid quod sit secundum se unum. Et hoc maxime est anima. Oportet igitur in uno homine vel animali unam tantum animam esse.
+
+###### n. 9
+Item. Si id quod est ex parte animae in homine, est ex pluribus congregatum, oportet quod sicut totum congregatum se habet ad totum corpus, ita singula ad singulas partes corporis. Quod etiam a positione Platonis non discordat: ponebat enim animam rationalem in cerebro, nutritivam in hepate, concupiscibilem in corde. Hoc autem apparet esse falsum, dupliciter. Primo quidem quia aliqua pars animae est quae non potest attribui alicui parti corporis, scilicet intellectus, de quo supra ostensum est quod non est actus alicuius partis corporis. Secundo, quia manifestum est quod in eadem parte corporis apparent diversarum partium animae operationes: sicut patet in animalibus quae decisa vivunt, quia eadem pars habet motum et sensum et appetitum quo movetur; et similiter eadem pars plantae decisa nutritur, augetur et germinat; ex quo apparet quod diversae partes animae in una et eadem parte corporis sint. Non igitur sunt diversae animae in nobis, diversis partibus corporis attributae.
+
+###### n. 10
+Amplius. Diversae vires quae non radicantur in uno principio, non impediunt se invicem in agendo, nisi forte earum actiones essent contrariae: quod in proposito non contingit. Videmus autem quod diversae actiones animae impediunt se: cum enim una est intensa, altera remittitur. Oportet igitur quod istae actiones, et vires quae sunt earum proxima principia, reducantur in unum principium. Hoc autem principium non potest esse corpus: tum quia aliqua actio est in qua non communicat corpus, scilicet intelligere; tum quia, si principium harum virium et actionum esset corpus inquantum huiusmodi, invenirentur in omnibus corporibus, quod patet esse falsum. Et sic relinquitur quod sit principium earum forma aliqua una, per quam hoc corpus est tale corpus. Quae est anima. Relinquitur igitur quod omnes actiones animae quae sunt in nobis, ab anima una procedunt. Et sic non sunt in nobis plures animae.
+
+###### n. 11
+Huic autem consonat quod dicitur in libro de Ecclesiast. dogmatibus: *neque duas animas esse credimus in uno homine, sicut Iacobus et alii Syrorum scribunt, unam animalem, qua animatur corpus, et immixta sit sanguini, et alteram spiritualem, quae rationem ministret: sed dicimus unam eandemque esse animam in homine quae et corpus sua societate vivificat, et semetipsam sua ratione disponat*.
+

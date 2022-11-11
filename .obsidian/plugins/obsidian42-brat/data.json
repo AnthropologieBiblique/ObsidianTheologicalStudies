@@ -1,0 +1,16 @@
+{
+  "pluginList": [
+    "AnthropologieBiblique/link-heading-range",
+    "nothingislost/obsidian-query-control"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": false,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": true,
+  "notificationsEnabled": true
+}

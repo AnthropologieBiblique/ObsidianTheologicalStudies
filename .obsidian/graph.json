@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Textes/SummaTheologiae/Prima Pars\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Textes/SummaTheologiae/Prima Secundae\"",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Textes/SummaTheologiae/Secunda Secundae\"",
+      "color": {
+        "a": 1,
+        "rgb": 6058198
+      }
+    },
+    {
+      "query": "path:\"Textes/SummaTheologiae/Tertia Pars\"",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.92487176908378,
+  "lineSizeMultiplier": 1.06738970588235,
+  "collapse-forces": true,
+  "centerStrength": 0.0347983505984109,
+  "repelStrength": 19.3905259981897,
+  "linkStrength": 0.0153877099466962,
+  "linkDistance": 72,
+  "scale": 0.0078125,
+  "close": true
+}

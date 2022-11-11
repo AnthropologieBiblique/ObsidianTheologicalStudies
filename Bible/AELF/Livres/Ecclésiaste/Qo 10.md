@@ -1,0 +1,88 @@
+---
+bibleKeys : 
+- Ecclésiaste 10
+- Qo 10
+- Ecclesiastes 10
+tags : 
+- Bible/Qo/10
+- français
+cssclass : français
+direction : ltr
+---
+
+# Ecclésiaste 10
+
+###### 1
+Une seule mouche morte
+infeste et gâte l’huile du parfumeur.
+Un petit grain de folie
+pèse plus que sagesse et plus que gloire.
+###### 2
+Le raisonnement du sage est droit,
+le raisonnement du fou va de travers.
+###### 3
+Quand le fou marche sur la route,
+le bon sens lui fait défaut,
+et il dit aux autres qu’ils sont fous.
+###### 4
+Si la colère du chef s’allume contre toi,
+ne quitte pas ton poste :
+le sang-froid fait éviter de grandes fautes.
+###### 5
+Il est un mal que j’ai vu sous le soleil,
+comme une erreur échappée au souverain :
+###### 6
+la folie placée au plus haut rang
+et des riches assis au plus bas.
+###### 7
+J’ai vu des esclaves sur des chevaux,
+et des princes aller à pied comme des esclaves.
+###### 8
+Qui creuse un trou tombera dedans ;
+qui perce un mur, un serpent le mordra.
+###### 9
+Qui extrait des pierres s’y blessera ;
+qui fend du bois court un danger.
+###### 10
+Si la lame est émoussée,
+que son tranchant n’est pas affûté,
+il faut redoubler d’efforts.
+Y remédier est sagesse.
+###### 11
+Si le serpent mord, faute d’être charmé,
+il ne rapporte rien au charmeur.
+###### 12
+Les paroles du sage le gratifient,
+les lèvres du fou le dévorent.
+###### 13
+Il commence par débiter des sottises
+et termine en proférant des insanités.
+###### 14
+Le fou multiplie ses prédictions.
+Mais l’homme ignore l’avenir :
+ce qui arrivera après lui,
+qui peut le lui révéler ?
+###### 15
+Le travail du fou le fatigue,
+lui qui n’est même pas capable d’aller en ville.
+###### 16
+Malheur à toi,
+pays dont le roi n’est qu’un enfant
+et dont les princes festoient dès l’aurore !
+###### 17
+Heureux es-tu,
+pays dont le roi est de noble race
+et dont les princes mangent au moment voulu
+pour reprendre des forces et non pour s’enivrer !
+###### 18
+Entre des mains paresseuses, la charpente s’écroule ;
+entre des mains nonchalantes, la maison prend l’eau.
+###### 19
+Pour s’amuser, on fait un bon repas,
+le vin égaie la vie,
+l’argent permet tout.
+###### 20
+Même en pensée, ne maudis pas le roi ;
+même en privé, ne maudis pas le riche,
+car un oiseau du ciel colporterait ta voix,
+tout ce qui vole divulguerait tes propos.

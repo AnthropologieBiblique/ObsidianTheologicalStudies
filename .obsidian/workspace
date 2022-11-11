@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "83ef030dd1106234",
+    "type": "split",
+    "children": [
+      {
+        "id": "63554b57907ef10b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bible/AELF/Livres/Luc/Lc 11.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "eb2fd57c415bf075",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bible/BJ/Livres/Luc/BJ Lc 11.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2396dc880e8dbe4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "671eb4851666eb21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f25df9d85b6feb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0673b4f120f0027e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bible/Lc/11",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5
+  },
+  "right": {
+    "id": "673ba618d4b9116d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bed40d96ff30bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574a26598f8e6b84",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Bible/BJ/Livres/Luc/BJ Lc 11.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2643716757700776,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "67073e73cf77d264",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4a2f6088a31536e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ec9cf82a5e517d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512111bf13bdffff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bible/BJ/Livres/Luc/BJ Lc 11.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cec597d74ce7ce7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bible/BJ/Livres/Luc/BJ Lc 11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422,
+    "collapsed": true
+  },
+  "active": "eb2fd57c415bf075",
+  "lastOpenFiles": [
+    "Bible/TIS/Livres/Κατα Λουκαν/TIS Lc 11.md",
+    "Bible/BJ/Livres/Luc/BJ Lc 11.md",
+    "Bible/AELF/Livres/Luc/Lc 11.md",
+    "Bible/AELF/Livres/Lc.md",
+    "Bible/AELF/AELF.md",
+    "Gabarits/Choix dossier et fichier.md",
+    "Gabarits/Find and replace.md",
+    "Gabarits/Mermaid.md",
+    "Gabarits",
+    "Gabarits/Citation Bible.md"
+  ]
+}

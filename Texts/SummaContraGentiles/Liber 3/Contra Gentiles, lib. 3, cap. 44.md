@@ -1,0 +1,22 @@
+---
+tags : 
+- SCG/lib.3/cap.44
+---
+
+### Quod ultima felicitas hominis non consistit in cognitione substantiarum separatarum qualem praedictae opiniones fingunt
+
+###### n. 1
+Non est autem possibile neque felicitatem humanam in tali cognitione substantiarum separatarum ponere sicut praedicti philosophi posuerunt.
+
+###### n. 2
+Vanum enim est quod est ad finem quem non potest consequi. Cum igitur finis hominis sit felicitas, in quam tendit naturale ipsius desiderium, non potest poni felicitas hominis in eo ad quod homo pervenire non potest: alioquin sequeretur quod homo esset in vanum, et naturale eius desiderium esset inane, quod est impossibile. Quod autem intelligere substantias separatas homini sit impossibile secundum praedictas positiones, ex dictis est manifestum. Non est igitur in tali cognitione substantiarum separatarum felicitas hominis constituta.
+
+###### n. 3
+Praeterea. Ad hoc quod intellectus agens uniatur nobis ut forma ita quod per ipsum intelligamus substantias separatas, requiritur quod generatio intellectus in habitu sit completa, secundum Alexandrum; vel quod omnia intellecta speculativa sint facta in nobis in actu, secundum Averroem; quae duo in idem redeunt, nam secundum hoc intellectus in habitu generatur in nobis, secundum quod intellecta speculativa fiunt in nobis in actu. Omnes autem species rerum sensibilium sunt intellectae in potentia. Ad hoc igitur quod intellectus agens copuletur alicui, oportet quod intelligat in actu per intellectum speculativum omnes naturas rerum sensibilium, et omnes virtutes, operationes et motus eorum. Quod non est possibile aliquem hominem scire per principia scientiarum speculativarum, per quas movemur ad continuationem intellectus agentis, ut ipsi dicunt: cum ex his quae nostris sensibus subsunt, ex quibus sumuntur principia scientiarum speculativarum, non possit perveniri ad omnia praedicta cognoscenda. Est igitur impossibile quod aliquis homo ad illam continuationem perveniat per modum ab eis assignatum. Non est igitur possibile quod in tali continuatione sit hominis felicitas.
+
+###### n. 4
+Adhuc. Dato quod talis continuatio hominis ad intellectum agentem sit possibilis qualem ipsi describunt, planum est quod talis perfectio paucissimis hominum advenit; in tantum quod nec ipsi, nec aliqui, quantumcumque in scientiis speculativis studiosi et periti, ausi sunt talem perfectionem de se profiteri. Quinimmo omnes plurima a se asserunt ignorata: sicut Aristoteles quadraturam circuli, et rationes ordinis caelestium corporum, in quibus, ut ipsemet dicit in II de caelo, non nisi topicas rationes reddere potest; et quid sit in eis necessarium et eorum motoribus, aliis reservat in XI metaphysicae. Felicitas autem est quoddam commune bonum, ad quod plures pervenire possunt, nisi sint orbati, ut Aristoteles dicit in I Ethicorum. Et hoc etiam verum est de omni fine naturali alicuius speciei, quod ipsum consequuntur ea quae sunt illius speciei ut in pluribus. Non est ergo possibile quod ultima hominis felicitas in continuatione praedicta consistat.
+
+###### n. 5
+Patet autem quod nec Aristoteles, cuius sententiam sequi conantur praedicti philosophi, in tali continuatione ultimam felicitatem hominis opinatus est esse. Probat enim in I Ethicorum quod felicitas hominis est operatio ipsius secundum virtutem perfectam: unde necesse fuit quod de virtutibus determinaret, quas divisit in virtutes morales et intellectuales. Ostendit autem in X quod ultima felicitas hominis est in speculatione. Unde patet quod non est in actu alicuius virtutis moralis; nec prudentiae nec artis, quae tamen sunt intellectuales. Relinquitur ergo quod sit operatio secundum sapientiam, quae est praecipua inter tres residuas intellectuales, quae sunt sapientia, scientia et intellectus, ut ostendit in VI Ethicorum: unde et in X Ethicorum sapientem iudicat esse felicem. Sapientia autem, secundum ipsum, est una de scientiis speculativis, caput aliarum, ut dicit in VI Ethicorum: et in principio metaphysicae scientiam quam in illo libro tradere intendit, sapientiam nominat. Patet ergo quod opinio Aristotelis fuit quod ultima felicitas quam homo in vita ista acquirere potest, sit cognitio de rebus divinis qualis per scientias speculativas haberi potest. Ille autem posterior modus cognoscendi res divinas, non per viam scientiarum speculativarum, sed quodam generationis ordine naturali, est confictus ab expositoribus quibusdam.
+

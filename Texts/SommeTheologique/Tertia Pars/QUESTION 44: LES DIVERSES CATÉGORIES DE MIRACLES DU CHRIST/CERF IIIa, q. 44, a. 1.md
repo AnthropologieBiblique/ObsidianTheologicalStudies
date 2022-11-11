@@ -1,0 +1,39 @@
+---
+tags : 
+- Summa/IIIa/q.44/a.1
+---
+
+### Les miracles opérés par le Christ sur les substances spirituelles
+
+###### arg. 1
+Parmi les substances spirituelles, les saints anges l'emportent sur les démons, parce que, dit S. Augustin " les esprits pécheurs qui ont déserté la vie spirituelle sont régis par les esprits justes et pieux ". Mais l'Évangile ne dit pas que le Christ ait fait des miracles concernant les bons anges. Il n'aurait donc pas dû en faire concernant les démons. 
+
+###### arg. 2
+Les miracles du Christ étaient ordonnés à manifester sa divinité. Mais celle-ci n'avait pas à être manifestée aux démons, parce que cela aurait empêché le mystère de sa passion, selon S. Paul (2 Co 2, 8): " S'ils l'avaient connu, ils n'auraient jamais crucifié le Seigneur de gloire. " Le Christ ne devait donc pas faire de miracles sur les démons. 
+
+###### arg. 3
+Les miracles du Christ étaient ordonnés à la gloire de Dieu. C'est pourquoi S. Matthieu (9, 8) écrit: " Les foules en voyant cela (le paralytique guéri par le Christ), furent saisies de crainte et rendirent gloire à Dieu qui a donné aux hommes une telle puissance. " Mais il ne revient pas aux démons de glorifier Dieu, parce que " la louange n'est pas belle dans la bouche du pécheur " (Si 15, 9). Aussi, nous disent Marc (1, 34) et Luc (4, 41) " il ne permettait pas aux démons de parler " de ce qui touchait à sa gloire. Il ne semble donc pas bien ordonné qu'il ait fait des miracles sur les démons. 
+
+###### arg. 4
+Les miracles du Christ étaient ordonnés au salut des hommes. Mais il est arrivé que des hommes aient souffert du dommage, lorsque le Christ en chassa les démons. Soit un dommage corporel, par exemple (Mc 9, 24) lorsque le démon, sur l'ordre du Christ, " poussa un grand cri et sortit de l'enfant en l'agitant avec violence et en le laissant inanimé ", si bien que beaucoup disaient: " Il est mort. " Soit du dommage pécuniaire, par exemple (Mt 8, 31) quand, à la prière des démons, le Christ envoya ceux-ci dans des porcs qu'ils précipitèrent dans la mer, de sorte que les habitants de cette région " lui demandèrent de quitter leur territoire ". On voit donc les inconvénients de tels miracles. 
+
+###### s.c.
+Zacharie (13, 2) avait prédit cela quand il disait: " J'ôterai du pays l'esprit impur. " 
+
+###### resp.
+Les miracles du Christ venaient à l'appui de la foi qu'il enseignait. Or, il devait se faire que, par la puissance de sa divinité, il détruirait le pouvoir des démons chez les hommes qui croiraient en lui, selon sa parole (Jn 12, 31): " Maintenant, le prince de ce monde va être jeté dehors. " Et c'est pourquoi il était bon que, entre autres miracles, il délivre les hommes esclaves du démon. 
+
+###### ad 1
+De même que les hommes devaient être délivrés par le Christ du pouvoir des démons, de même devaient-ils être par lui associés aux anges, selon la parole de S. Paul (Col 1, 20): " Pacifiant par le sang de sa croix ce qui est au ciel et ce qui est sur terre. " Et c'est pourquoi, concernant les anges, il ne convenait pas de montrer aux hommes d'autres miracles que ceux de leurs apparitions, qui se sont produites à sa naissance, à sa résurrection et à son ascension. 
+
+###### ad 2
+Selon S. Augustin: " Le Christ s'est fait connaître aux démons autant qu'il l'a voulu; et il l'a voulu dans la mesure où il l'a fallu. Mais il s'est fait connaître à eux, non comme aux saints anges par le fait qu'il est la vie éternelle, mais par certains effets temporels de sa puissance. " Et d'abord, en voyant le Christ avoir faim après son jeûne, ils ont pensé qu'il n'était pas le Fils de Dieu. C'est pourquoi, sur ce texte (Lc 4, 3): " Si tu es le Fils de Dieu. . . " S. Ambroise écrit: " Que signifie cette entrée en matière, sinon qu'il savait que le Fils de Dieu viendrait; mais il ne pensait pas qu'il viendrait dans la faiblesse d'un corps. " Mais plus tard, après avoir vu ses miracles, il soupçonna par conjecture que le Christ était le Fils de Dieu. Aussi, sur le texte de Marc (1, 24): " je sais que tu es le Fils de Dieu ", S. Jean Chrysostome nous dit-il: " Il n'avait pas une connaissance certaine et ferme de la venue de Dieu. " Il savait cependant qu'il était " le Messie promis dans la Loi ", aussi Luc dit-il (4, 41): " Parce qu'ils savaient qu'il était le Messie. " Mais, s'ils reconnaissaient en lui le Fils de Dieu, c'était davantage un soupçon qu'une certitude. Ce qui fait dire à Bède: " Les démons confessent le Fils de Dieu et, comme on dit dans la suite, ils savaient qu'il était le Messie. " Parce que le diable, le voyant fatigué par le jeûne, comprit qu'il était réellement un homme; mais parce qu'il n'avait pu le vaincre par la tentation, il se demandait s'il était le Fils de Dieu. " Plus tard la puissance des miracles lui fit comprendre, ou plutôt soupçonner, qu'il était le Fils de Dieu. Donc, s'il persuada aux juifs de le crucifier, ce n'était pas parce qu'il ne pensait pas qu'il était le Messie ou le Fils de Dieu, mais parce qu'il ne prévit pas que lui-même serait condamné par sa mort. Car l'Apôtre dit (1 Co 2, 8) de ce mystère: "Nul des princes de ce monde ne l'a connu. Car s'ils l'avaient connu, ils n'auraient jamais crucifié le Seigneur de gloire. " 
+
+###### ad 3
+Le Christ n'a pas fait le miracle d'expulser des démons dans leur intérêt, mais dans l'intérêt des hommes afin que ceux-ci le glorifient. Et c'est pourquoi il leur interdisait de publier ce qui aurait servi à sa propre louange. D'abord, pour donner l'exemple. Selon S. Athanase: " il faisait taire le démon, bien que celui-ci proclamât la vérité, pour nous habituer à ne pas attacher d'importance à de tels propos, même s'ils semblent vrais. Il serait impie, en effet, quand nous avons la divine Écriture, de nous faire instruire par le démon. " C'est dangereux, d'ailleurs, parce que les démons mêlent souvent des mensonges à la vérité. - Ensuite, dit Chrysostome " il ne fallait pas permettre aux démons d'usurper la gloire du ministère apostolique, et il ne convenait pas que le mystère du Christ soit publié par une langue fétide, parce que "la louange n'est pas belle dans la bouche des pécheurs" (Si 15, 9). - Enfin, parce que, dit Bède il ne voulait pas attiser la haine des Juifs ". Et c'est aussi pourquoi " il ordonne aux Apôtres eux-mêmes de se taire à son sujet, pour éviter que la révélation de sa majesté divine ne retarde l'échéance de la Passion ". 
+
+###### ad 4
+Le but spécial de la venue du Christ a été d'enseigner et de faire des miracles dans l'intérêt des hommes, principalement quant au salut de leur âme. Et c'est pourquoi il permit aux démons qu'il expulsait de nuire aux hommes, soit dans leur corps, soit dans leurs biens, en vue du salut de leur âme, c'est-à-dire pour leur instruction. S. Jean Chrysostome dit que le Christ " permit aux démons d'aller dans les porcs, non parce qu'il se serait plié à leur volonté, mais premièrement pour faire connaître la grandeur du dommage que les pièges du démon infligent aux hommes; deuxièmement pour apprendre à tous qu'ils n'auraient rien osé faire aux porcs si lui-même n'y avait consenti; troisièmement pour montrer que les démons auraient fait un mal plus grand aux hommes qu'à ces porcs, si les hommes n'avaient pas été secourus par la providence divine ". 
+
+Et pour les mêmes motifs, il a permis que l'enfant délivré des démons fût plus gravement affligé momentanément, puisqu'il le délivra aussitôt de cette affliction. Cela montre, selon Bède, " que souvent lorsque nous essayons, après nos péchés, de nous convertir à Dieu, l'antique ennemi nous assaille par des ruses plus dangereuses et nouvelles. Il agit ainsi soit pour inspirer la haine de la vertu, soit pour se venger de la honte de son expulsion ". En outre, l'enfant guéri a semblé mort, d'après S. Jérôme " parce que c'est aux hommes guéris que l'on dit: "Vous êtes morts, et votre vie est cachée avec le Christ en Dieu" (Col 3, 3) ". 
+

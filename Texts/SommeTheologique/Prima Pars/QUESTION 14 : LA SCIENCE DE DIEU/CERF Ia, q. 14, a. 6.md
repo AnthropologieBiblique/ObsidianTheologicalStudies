@@ -1,0 +1,41 @@
+---
+tags : 
+- Summa/Ia/q.14/a.6
+---
+
+### Dieu a-t-il une connaissance propre des réalités autres que lui ?
+
+###### arg. 1
+Il ne le semble pas, car Dieu connaît toutes choses, on vient de le voir, comme elles sont en lui-même. Mais les autres choses sont en Dieu comme dans la cause première et universelle. Donc, elles sont également connues de lui comme dans leur cause première et universelle, et c'est là connaître en général, non d'une connaissance propre. Donc Dieu connaît les autres choses en général, non d'une connaissance propre à chacune. 
+
+###### arg. 2
+L'essence divine est distante de l'essence de la créature autant que l'essence de la créature l'est d'elle. Or, par l'essence de la créature, l'essence divine ne peut être connue. Et ainsi, Dieu ne connaissant rien que par son essence, il s'ensuit qu'il ne connaît pas la créature dans son essence, de façon à savoir « ce qu'elle est », ce qui est avoir d'elle une connaissance propre. 
+
+###### arg. 3
+On ne peut connaître proprement une chose que par sa propre raison formelle. Or Dieu connaît toutes choses par son essence. Il semble donc qu'il ne connaisse pas chaque chose par sa raison formelle propre, car le même ne peut pas être la raison formelle de choses multiples et diverses. Dieu n'a donc pas des choses une connaissance propre, mais une connaissance générale. 
+
+###### s.c.
+avoir des choses une connaissance propre, c'est les connaître non seulement en général, mais selon qu'elles se distinguent les unes des autres. Or, c'est ainsi que Dieu connaît les choses, selon ces paroles de l'épître aux Hébreux (4,12) : « Elle va (la parole de Dieu) jusqu'à distinguer l'âme et l'esprit, les jointures et les moelles ; elle démêle les sentiments et les pensées du coeur. Aussi nulle créature n'est cachée devant Dieu. » 
+
+###### resp.
+A cet égard, certains philosophes se sont égarés, disant que Dieu ne connaît les autres réalités qu'en général, c'est-à-dire en tant qu'ils sont des étants. De même, en effet, que le feu, s'il se connaissait lui-même comme principe de la chaleur, connaîtrait la nature de la chaleur et, avec elle, toutes les autres choses chaudes, en tant que chaudes : ainsi Dieu, en tant qu'il se connaît comme principe de l'être, connaît la nature de l'étant et de toutes les autres choses en tant qu'elles sont des étants. Mais cela ne se peut pas. En effet, connaître quelque chose en général et non en ce qu'il a de distinct, c'est le connaître d'une manière imparfaite. Aussi notre intelligence, quand elle passe de la puissance à l'acte, accède-t-elle d'abord à une connaissance générale et confuse des choses, avant d'en avoir une connaissance propre, allant ainsi de l'imparfait au parfait, dit Aristote. Donc, si la connaissance que Dieu a des choses autres que lui-même était générale seulement et non distincte, il s'ensuivrait que son intellection ne serait pas de toute manière parfaite, ni, en conséquence, son être lui-même, ce qui contredit à nos précédentes déterminations. Il faut donc affirmer que Dieu connaît les réalités autres que lui d'une connaissance propre, non pas seulement selon qu'elles ont en commun la raison formelle d'étant, mais selon qu'elles se distinguent les unes des autres. 
+
+Pour le mettre en évidence, il faut observer que certains, voulant montrer que Dieu connaît des choses multiples, emploient des comparaisons comme celles-ci : le centre d'un cercle, s'il se connaissait lui-même, connaîtrait toutes les lignes qui partent de lui ; la lumière, si elle se connaissait elle-même, connaîtrait toutes les couleurs. Mais ces exemples, bien qu'ils soient valables sur un point, à savoir quant à la causalité universelle, sont déficients en ce que la multitude et la diversité qu'ils envisagent ne sont pas causés par ce principe universel unique en ce qui les distingue, mais seulement en ce qui leur est commun. Ainsi, la diversité des couleurs n'a pas pour cause la lumière seule, mais la disposition du milieu qui la reçoit ; de même, la diversité des rayons du cercle provient de leurs positions diverses. De là vient que cette diversité ou multitude ne peut pas être connue dans son unique principe d'une connaissance propre, mais seulement en général. Or, en Dieu, il n'en est pas ainsi. On l'a montré plus haut, tout ce qu'il y a de perfection, en quelque créature que ce soit, préexiste et se trouve contenu en Dieu d'une façon suréminente. Et dans les créatures il n'y a pas seulement ce qu'elles ont de commun, à savoir leur être, qui appartient à leur perfection, il y a aussi ce par quoi elles diffèrent les unes des autres, comme vivre, connaître, et les autres caractères par lesquels se distinguent les vivants et les non-vivants, les intelligents et les non-intelligents. Et toute forme par laquelle une chose quelconque est constituée en sa propre espèce est une perfection. Ainsi, toutes choses préexistent en Dieu non seulement quant à ce qui est commun à toutes, mais encore quant à ce qui les distingue. En conséquence, Dieu contenant en lui toutes les perfections, l'essence de Dieu entretient avec les essences de toutes choses non le rapport du commun au propre, de l'unité aux nombres ou du centre aux lignes divergentes, mais le rapport de l'acte parfait aux actes imparfaits, comme si je disais : de l'homme à l'animal, ou de six, nombre entier, aux fractions qu'il renferme. Or, il est clair que par l'acte parfait on peut connaître les actes imparfaits non seulement en général, mais d'une connaissance propre. Celui qui connaît le nombre six connaît sa moitié : trois, d'une connaissance propre. 
+
+Ainsi donc, comme son essence comprend tout ce qu'il y a de perfection dans l'essence de quelque autre chose que ce soit, et bien davantage, Dieu peut connaître en lui-même toutes choses d'une connaissance propre. Car la nature propre d'un être quelconque a consistance selon qu'elle participe en quelque manière la perfection divine. Or Dieu ne se connaîtrait point parfaitement lui-même, s'il ne connaissait toutes les manières dont sa perfection peut être participée par d'autres. Et la nature même de l'être ne lui serait pas connue parfaitement, s'il ne connaissait tous les modes d'être. Il est donc manifeste que Dieu connaît toutes choses d'une connaissance propre, selon que chacune se distingue des autres. 
+
+###### ad 1
+Connaître une chose comme elle est dans le sujet connaissant peut se comprendre de deux manières. Ou bien l'adverbe « comme » signifie le mode de connaissance du point de vue de la chose connue, et alors il est faux. Car le connaissant ne connaît pas toujours le connu selon l'être qu'il a en lui ; l'oeil ne connaît pas la pierre quant à l'être qu'elle a en lui ; mais, par la forme intentionnelle de la pierre qu'il a en lui, il connaît la pierre telle qu'elle est en dehors de l'oeil. Et quand un connaissant connaît ce qu'il connaît selon l'être qu'il a en lui, il ne le connaît pas moins aussi selon l'être qu'il a en dehors de lui. Ainsi l'intellect connaît la pierre selon l'être intelligible qu'elle a en lui, pour autant qu'il réfléchit sur son acte ; mais en même temps il connaît l'être de la pierre en sa nature propre. Mais, si l'adverbe « comme » signifie le mode de connaissance du point de vue du connaissant, alors il est vrai que le connaissant ne connaît le connu que pour autant qu'il est en lui ; car le mode de connaître est d'autant plus parfait que le connu est plus parfaitement dans le connaissant. 
+
+En conséquence, il faut dire ceci : Dieu ne 
+
+connaît pas seulement que les choses sont en lui, mais, en raison de ce qu'il les contient en lui, il les contient selon leur propre nature, et d'autant plus parfaitement que plus parfaitement chacune est en lui. 
+
+###### ad 2
+L'essence de la créature est à l'essence de Dieu ce que l'acte imparfait est à l'acte parfait. Ainsi l'être de la créature ne peut suffire à conduire à la connaissance de l'essence divine ; mais l'inverse est vrai. 
+
+###### ad 3
+Le même ne peut être pris comme raison formelle de choses diverses s'il est égal à chacune. Mais l'essence divine est quelque chose qui transcende toutes les créatures. C'est pourquoi l'on peut voir en elle la raison formelle de toutes choses, étant participable et imitable par toutes les créatures, chacune à sa manière. 
+
+
+

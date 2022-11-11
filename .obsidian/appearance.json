@@ -1,0 +1,18 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "translucency": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "Indent",
+    "h6 tests",
+    "Bibles orientales grossies",
+    "Indentations h6 v2",
+    "Bibles hébreu",
+    "Hébreu",
+    "Araméen"
+  ],
+  "baseFontSizeAction": true,
+  "accentColor": "#468cfb",
+  "showViewHeader": true
+}

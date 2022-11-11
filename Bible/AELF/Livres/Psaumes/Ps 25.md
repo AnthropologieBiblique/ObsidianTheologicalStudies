@@ -1,0 +1,58 @@
+---
+bibleKeys : 
+- Psaumes 25
+- Ps 25
+- Psalms 25
+tags : 
+- Bible/Ps/25
+- français
+cssclass : français
+direction : ltr
+---
+
+# Psaumes (25) 24
+
+###### 1
+Vers toi, Seigneur, j'élève mon âme, *
+###### 2
+vers toi, mon Dieu. Je m'appuie sur toi : épargne-moi la honte ; ne laisse pas triompher mon ennemi.
+###### 3
+Pour qui espère en toi, pas de honte, mais honte et déception pour qui trahit.
+###### 4
+Seigneur, enseigne-moi tes voies, fais-moi connaître ta route.
+###### 5
+Dirige-moi par ta vérité, enseigne-moi, car tu es le Dieu qui me sauve. C'est toi que j'espère tout le jour en raison de ta bonté, Seigneur.
+###### 6
+Rappelle-toi, Seigneur, ta tendresse, ton amour qui est de toujours.
+###### 7
+Oublie les révoltes, les péchés de ma jeunesse ; dans ton amour, ne m'oublie pas.
+###### 8
+Il est droit, il est bon, le Seigneur, lui qui montre aux pécheurs le chemin.
+###### 9
+Sa justice dirige les humbles, il enseigne aux humbles son chemin.
+###### 10
+Les voies du Seigneur sont amour et vérité pour qui veille à son alliance et à ses lois.
+###### 11
+A cause de ton nom, Seigneur, pardonne ma faute : elle est grande.
+###### 12
+Est-il un homme qui craigne le Seigneur ? Dieu lui montre le chemin qu'il doit prendre.
+###### 13
+Son âme habitera le bonheur, ses descendants posséderont la terre.
+###### 14
+Le secret du Seigneur est pour ceux qui le craignent ; à ceux-là, il fait connaître son alliance.
+###### 15
+J'ai les yeux tournés vers le Seigneur : il tirera mes pieds du filet.
+###### 16
+Regarde, et prends pitié de moi, de moi qui suis seul et misérable.
+###### 17
+L'angoisse grandit dans mon coeur : tire-moi de ma détresse.
+###### 18
+Vois ma misère et ma peine, enlève tous mes péchés.
+###### 19
+Vois mes ennemis si nombreux, la haine violente qu'ils me portent.
+###### 20
+Garde mon âme, délivre-moi ; je m'abrite en toi : épargne-moi la honte.
+###### 21
+Droiture et perfection veillent sur moi, sur moi qui t'espère !
+###### 22
+Libère Israël, ô mon Dieu, de toutes ses angoisses !

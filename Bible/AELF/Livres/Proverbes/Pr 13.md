@@ -1,0 +1,89 @@
+---
+bibleKeys : 
+- Proverbes 13
+- Pr 13
+- Proverbs 13
+tags : 
+- Bible/Pr/13
+- français
+cssclass : français
+direction : ltr
+---
+
+# Proverbes 13
+
+###### 1
+Le fils sage écoute les leçons de son père,
+l’insolent reste sourd aux menaces.
+###### 2
+On peut tirer de la parole un fruit savoureux,
+mais les fourbes n’ont faim que de violence.
+###### 3
+Qui surveille ses lèvres garde son âme,
+qui ouvre trop le bec court au désastre.
+###### 4
+Le paresseux soupire, et rien ne vient ;
+les gens actifs ne restent pas sur leur faim.
+###### 5
+Le juste déteste le mensonge,
+le méchant empeste et fait scandale.
+###### 6
+Leur justice protège ceux qui marchent droit ;
+le péché fait la ruine des méchants.
+###### 7
+Tel joue au riche, qui n’a rien du tout,
+et tel joue au pauvre, qui a de grands biens.
+###### 8
+La fortune d’un homme lui sert de rançon ;
+pour le pauvre aucun bruit de menace !
+###### 9
+La lumière des justes est joyeuse ;
+la lampe des méchants s’éteint.
+###### 10
+La vaine prétention cause des polémiques ;
+la sagesse est avec celui qui prend conseil.
+###### 11
+Fortune trop soudaine s’évanouira ;
+qui amasse peu à peu la verra grossir.
+###### 12
+Attente prolongée : cœur dolent ;
+désir satisfait : arbre de vie.
+###### 13
+Qui fait fi des conseils le paiera ;
+qui respecte un ordre aura sa récompense.
+###### 14
+L’enseignement du sage est source de vie :
+il détourne des pièges mortels.
+###### 15
+Un bon discernement permet de trouver grâce ;
+le chemin des traîtres est interminable.
+###### 16
+Tout homme avisé agit à bon escient,
+mais l’insensé déploie sa folie.
+###### 17
+Un messager malveillant tombera dans le malheur ;
+le remède, c’est un ambassadeur fidèle.
+###### 18
+Misère et mépris à qui refuse l’éducation,
+gloire à celui qui tient compte des avertissements !
+###### 19
+Un désir comblé est bien doux pour l’âme.
+Les insensés ont horreur de s’écarter du mal.
+###### 20
+Qui fait route avec les sages deviendra sage ;
+qui fréquente les insensés tournera mal.
+###### 21
+Le malheur poursuit les pécheurs,
+le bonheur récompense les justes.
+###### 22
+À ses petits-enfants l’homme de bien transmet son héritage ;
+au juste est réservée la fortune du pécheur.
+###### 23
+Il y a beaucoup à manger quand les pauvres défrichent ;
+que l’un vienne à périr, quelle injustice !
+###### 24
+Qui ménage sa trique n’aime pas son fils,
+qui l’aime vraiment veille à le corriger.
+###### 25
+Le juste mange à satiété,
+l’estomac des méchants reste vide.

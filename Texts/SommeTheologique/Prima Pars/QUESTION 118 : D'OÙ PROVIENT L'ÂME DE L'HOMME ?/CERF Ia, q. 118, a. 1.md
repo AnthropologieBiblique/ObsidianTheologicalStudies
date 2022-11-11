@@ -1,0 +1,41 @@
+---
+tags : 
+- Summa/Ia/q.118/a.1
+---
+
+### L'âme sensitive est-elle transmise avec la semence ?
+
+
+
+###### arg. 1
+Il semble que l'âme sensitive ne soit pas transmise avec la semence, mais qu'elle vienne de Dieu par création. En effet, toute substance parfaite qui n'est pas composée de matière et de forme, si elle commence à exister ce n'est pas par génération, mais par création. Or, l'âme sensitive est une substance parfaite, sinon elle ne pourrait pas mouvoir le corps ; elle n'est pas composée de matière et de forme, puisqu'elle est la forme du corps. Donc, elle ne commence pas d'exister par génération, mais par création. 
+
+###### arg. 2
+Le principe de la génération dans les êtres vivants est la puissance génératrice, qui, lorsqu'on la classe parmi les puissances de l'âme végétale, est inférieure à l'âme sensitive. Elle ne produit rien au-delà de son espèce. Donc l'âme sensitive ne peut pas être produite par la puissance génératrice de l'animal. 
+
+###### arg. 3
+Tout être qui engendre, engendre un être semblable à lui. Il faut donc que l'être engendré soit en acte dans ce qui est la cause de sa génération. Mais l'âme sensitive n'est pas en acte dans la semence, ni elle-même, ni une partie d'elle-même, car chaque partie de l'âme sensitive est dans une partie déterminée du corps. Or, dans la semence il n'y a pas une parcelle du corps, parce qu'il n'y a pas de parcelle du corps qui ne provienne de la semence et de sa puissance. 
+
+###### arg. 4
+Si dans la semence se trouve quelque principe actif de l'âme sensitive, ou bien ce principe demeure quand l'animal est engendré, ou bien il disparaît. Mais il ne peut pas demeurer. Car, ou bien il serait la même chose que l'âme sensitive de l'animal engendré, et cela est impossible, puisqu'alors l'engendrant et l'engendré seraient une même chose, comme aussi celui qui fait et ce qui est fait. Ou bien ce principe serait autre chose que l'âme sensitive. Mais cela aussi est impossible, car nous avons vu plus haut a que dans un même animal il ne peut y avoir qu'un seul principe formel, qui est l'âme unique. Si ce principe disparaît, nous rencontrons une autre impossibilité, car dans ce cas un agent agirait pour sa propre destruction, ce qui est impossible. L'âme sensitive ne peut donc pas être engendrée par la semence. 
+
+###### s.c.
+la puissance de la semence se comporte à l'égard des animaux engendrés par elle comme la puissance qui existe dans les éléments du monde se comporte à l'égard des animaux produits par ces éléments, comme par exemple les êtres vivants engendrés par la putréfaction. Mais dans ces animaux les âmes sont produites par une puissance qui réside dans ces éléments, selon la Genèse (1, 20) : " Que les eaux produisent un foisonnement d'âmes vivantes. " Donc, les âmes des animaux engendrés par la semence proviennent d'une puissance qui est dans la semence. 
+
+###### resp.
+Certains ont affirmé que les âmes sensitives des animaux étaient créées par Dieu. Cette opinion serait soutenable si l'âme sensitive était une réalité subsistante, possédant par elle-même son existence et son action. Car ainsi, de même qu'ere posséderait par elle-même son existence et son action, c'est également à elle-même que devrait se terminer son devenir. Et comme une chose simple et subsistante ne peut devenir que par création, il s'ensuivrait que l'âme sensitive arriverait à l'existence par voie de création. Mais cette prémisse est fausse, d'après ce que nous avons vu, car alors elle ne serait pas détruite lorsque le corps est détruit. C'est pourquoi, n'étant pas une forme subsistante, elle se comporte à l'égard de l'existence comme les autres formes corporelles auxquelles l'être n'appartient qu'en tant qu'un composé existe par elles. Aussi est-ce à ces composés eux-mêmes qu'il appartient de devenir. Et puisque celui qui engendre est semblable à l'engendré, il est nécessaire que, naturellement, l'âme sensitive et aussi les autres formes du même genre soient amenées à l'existence par des agents corporels qui font passer la matière de la puissance à l'acte par une puissance corporelle qui est en eux. 
+
+Plus un agent est puissant, plus il peut étendre à distance son action. C'est ainsi que plus un corps est chaud, plus il peut chauffer loin. Les corps non vivants, qui sont inférieurs dans l'ordre de la nature, produisent par eux-mêmes sans intermédiaire, un être semblable à eux. C'est par lui-même que le feu engendre le feu. Mais les corps vivants, parce que plus puissants, peuvent engendrer un semblable à eux, soit sans intermédiaire, soit par intermédiaire. Ils le font sans intermédiaire dans la fonction de la nutrition, par laquelle la chair engendre de la chair ; ils le font avec intermédiaire dans l'acte de la génération, car une certaine puissance active dérive de l'âme du générateur dans la semence de l'animal ou de la plante, de même qu'une certaine force motrice dérive de l'agent principal dans l'instrument. Et de même qu'on peut dire indifféremment que quelque chose est mû par un instrument ou par l'agent principal, ainsi peut-on dire indifféremment que l'âme de l'engendré vient de celle du générateur, ou qu'elle vient d'une puissance dérivée d'elle, qui est dans la semence. 
+
+###### ad 1
+L'âme sensitive n'est pas une substance parfaite subsistant par elle-même. Nous n'avons pas à répéter ici ce que nous avons dit précédemment. 
+
+###### ad 2
+La puissance génératrice n'engendre pas seulement par sa vertu propre, mais par celle de toute l'âme dont elle est une puissance. C'est pourquoi la puissance génératrice de la plante engendre une plante, tandis que celle de l'animal engendre un animal. Car plus l'âme est parfaite, plus sa puissance génératrice est ordonnée à un effet parfait. 
+
+###### ad 3
+La vertu active qui est dans la semence, dérivée de l'âme même du générateur, est une sorte de motion de l'âme même du générateur. Elle n'est ni l'âme, ni une partie de l'âme, sinon virtuellement ; de même que la scie ou la hache n'est pas la forme du lit, mais seulement l'instrument d'une motion ordonnée à cette forme. C'est pourquoi il n'est pas nécessaire que cette forme active ait un organe en acte, mais elle est incluse dans l'esprit même qui se trouve dans la semence, qui est spumeuse, comme le manifeste sa blancheur. Et dans cet esprit il y a une chaleur qui provient de la puissance des corps célestes, puissance par laquelle les agents inférieurs visent à reproduire leur espèce, comme nous l'avons dit. Et puisque dans cet esprit la puissance de l'âme collabore avec celle du corps céleste, on dite que " ce qui engendre l'homme, c'est l'homme, et le soleil ". Mais la chaleur élémentaire joue le rôle d'instrument par rapport à l'âme, comme le dit Aristote pour la puissance nutritive. 
+
+###### ad 4
+Chez les animaux parfaits, qui sont engendrés par suite de l'union charnelle, la puissance active est dans la semence du mâle, selon Aristote, mais la matière du foetus est procurée par la femelle. Dans cette matière il y a dès le début une âme végétative, non pas en acte second, mais en acte premier, de même que l'âme sensitive chez ceux qui dorment. Mais quand cette âme commence à se nourrir, alors elle opère en acte. Cette matière fournie par la femelle est transformée par la vertu qui est dans la semence du mâle, jusqu'à ce qu’elle parvienne à être en acte l'âme sensitive ; non pas en ce sens que la force même qui était dans la semence deviendrait l'âme sensitive, car alors le générateur et l'engendré seraient une même chose, et ainsi nous nous trouverions plutôt devant un cas de nutrition et de croissance que devant celui de la génération, dit Aristote h. Mais quand, par la vertu du principe actif qui était dans la semence, une âme sensitive a été produite dans l'engendré jusqu'à un certain stade de développement, alors cette âme sensitive de l'enfant commence à réaliser l'achèvement de son propre corps par la nutrition et la croissance. Alors, la vertu active qui était dans la semence cesse d'exister, celle-ci étant détruite, ainsi que l'esprit qui s'y trouvait contenu. Et cela n'est pas anormal, car cette vertu n'est pas l'agent principal, mais seulement l'instrument : le mouvement de l'instrument s'arrête lorsque l'effet est venu à Inexistence. 
+

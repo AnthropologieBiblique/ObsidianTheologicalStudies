@@ -1,0 +1,75 @@
+---
+bibleKeys : 
+- Jude 1
+- Jude 1
+tags : 
+- Bible/Jude/1
+- français
+cssclass : français
+direction : ltr
+---
+
+# Jude 1
+
+###### 1
+JUDE, SERVITEUR DE JESUS CHRIST
+et frère de Jacques,
+aux appelés qui sont aimés de Dieu le Père
+et gardés pour Jésus Christ :
+###### 2
+que la miséricorde, la paix et l’amour
+vous soient accordés en abondance.
+###### 3
+Bien-aimés, j’avais la ferme intention de vous écrire au sujet du salut qui nous est commun ; or me voici dans l’obligation de le faire pour vous exhorter à combattre pour la foi qui a été transmise aux fidèles une fois pour toutes.
+###### 4
+Car il s’est infiltré parmi vous des individus, qui sont marqués depuis longtemps en vue de ce jugement, des impies qui tournent la grâce de notre Dieu en prétexte à la débauche, et qui renient notre seul maître et Seigneur, Jésus Christ.
+###### 5
+Bien que vous sachiez déjà tout cela, je veux néanmoins vous le rappeler : le Seigneur, qui avait sauvé une fois pour toutes son peuple en le faisant sortir du pays d’Égypte, a pourtant supprimé ensuite ceux qui ont refusé de croire ;
+###### 6
+quant aux anges qui n’ont pas gardé la dignité de leur rang, mais ont quitté la demeure qui était la leur, le Seigneur les maintient enchaînés à perpétuité dans les ténèbres en vue du jugement du grand jour ;
+###### 7
+il en va de même pour Sodome et Gomorrhe et les villes d’alentour : elles s’étaient livrées à la prostitution d’une manière semblable à ces anges-là et elles étaient allées avec des êtres d’une autre nature ; elles sont soumises pour l’exemple au châtiment du feu éternel.
+###### 8
+Et pourtant, ces coureurs de songes font la même chose : ils souillent la chair, ils méprisent la seigneurie de Dieu, ils outragent les anges appelés « Gloires ».
+###### 9
+Or l’archange Michel, discutant avec le démon dans la querelle au sujet du corps de Moïse, n’osa pas porter contre lui un jugement qui l’outrage ; il lui dit seulement : Que le Seigneur te blâme !
+###### 10
+Eux, au contraire, tout ce qu’ils ne connaissent pas, ils l’outragent ; et tout ce qu’ils savent les corrompt, car ils ne le saisissent que par l’instinct, comme des bêtes privées de raison.
+###### 11
+Malheureux sont-ils ! Ils sont partis sur le chemin de Caïn ; pour un salaire, ils se sont laissés emporter par l’égarement de Balaam ; ils ont péri par la même révolte que Coré.
+###### 12
+Ces individus sont une souillure pour vos repas fraternels, ils font bombance sans pudeur, ils ne se préoccupent que d’eux-mêmes : nuages sans eau emportés par le vent ; arbres de fin d’automne sans fruits, deux fois morts, déracinés ;
+###### 13
+flots sauvages de la mer, crachant l’écume de leur propre honte ; astres errants, pour lesquels est réservée à jamais l’obscurité des ténèbres.
+###### 14
+C’est encore contre eux qu’a prophétisé Hénok, le septième patriarche depuis Adam, qui disait : Voici que le Seigneur est venu avec ses saints anges par myriades
+###### 15
+pour exercer le jugement universel et accuser toutes les âmes pour tous les actes d’impiété qu’elles ont commis, et pour toutes les paroles intolérables que les pécheurs impies ont prononcées contre lui.
+###### 16
+Ce sont des gens qui récriminent, qui protestent contre leur sort, qui marchent au gré de leurs convoitises ; leur bouche dit des énormités, ils n’ont d’égard pour les personnes qu’en fonction de leur intérêt.
+###### 17
+Mais vous, bien-aimés, souvenez-vous des paroles dites à l’avance par les Apôtres de notre Seigneur Jésus Christ.
+###### 18
+Ils vous disaient en effet qu’aux derniers temps, il y aura des moqueurs qui iront au gré de leurs convoitises impies.
+###### 19
+Ce sont des fauteurs de divisions, menés par l’instinct, ils ne possèdent pas l’Esprit.
+###### 20
+Mais vous, bien-aimés, construisez votre vie sur votre foi très sainte, priez dans l’Esprit Saint,
+###### 21
+gardez-vous dans l’amour de Dieu, attendant la miséricorde de notre Seigneur Jésus Christ en vue de la vie éternelle.
+###### 22
+Ceux qui sont hésitants, prenez-les en pitié ;
+###### 23
+d’autres, sauvez-les en les arrachant au feu ; d’autres enfin, prenez-les aussi en pitié, mais avec crainte, en détestant jusqu’au vêtement souillé par leur chair.
+###### 24
+À Celui qui peut vous préserver de la chute
+et vous faire tenir debout,
+irréprochables et pleins d’allégresse,
+en présence de sa gloire,
+###### 25
+au Dieu unique, notre Sauveur,
+par notre Seigneur Jésus Christ,
+gloire, majesté, souveraineté, pouvoir,
+avant tous les siècles,
+maintenant et pour tous les siècles.
+Amen.

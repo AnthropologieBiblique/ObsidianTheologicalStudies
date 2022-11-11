@@ -1,0 +1,33 @@
+---
+tags : 
+- Summa/IIa-IIæ/q.182/a.1
+---
+
+### Laquelle est la plus importante ou la plus digne?
+
+###### arg. 1
+Il semble que ce soit la vie active. Car " ce qui appartient aux meilleurs doit être tenu pour le meilleur ", dit Aristote. Mais la vie active est le fait des personnes les plus considérables, c'est-à-dire des prélats, qui sont constitués en dignité et en puissance. Ce qui fait dire à S. Augustin: " Dans l'action, Ce qu'il faut aimer ce n'est ni les honneurs du monde ni la puissance. " Il semble donc bien que la vie active l'emporte en dignité sur la vie contemplative. 
+
+###### arg. 2
+En toute espèce d'habitus et d'actes, le commandement revient au principal. C'est ainsi que l'art militaire commande à la sellerie. Or il appartient à la vie active de disposer et de diriger la vie contemplative, comme en témoigne cet ordre donné à Moïse (Ex 19, 21): " Descends, et avertis solennellement le peuple de ne pas franchir les limites fixées pour voir Dieu. " La vie active est donc plus digne que la vie contemplative. 
+
+###### arg. 3
+Nul ne doit être retiré d'une occupation plus élevée pour être appliqué à une occupation moindre. Car S. Paul nous dit (1 Co 12, 31): Recherchez les dons les meilleurs. " Mais il y des personnes qu'on arrache à la vie contemplative pour les jeter dans la vie active, celles par exemple que l'on nomme à quelque prélature 1. ,a vie active fait donc l'impression d'être plus digne que la vie contemplative. 
+
+###### s.c.
+le Seigneur a dit (Lc 10, 42): " Marie a choisi la meilleure part, qui ne lui sera pas enlevée. " Or Marie figure la vie Contemplative. Donc cette vie l'emporte en dignité sur la vie active. 
+
+###### resp.
+Rien n'empêche qu'une chose soit en elle-même de plus haut prix qu'une autre, tout en étant à tel point de vue particulier surpassée par cette autre. Tel est le cas de la vie Contemplative, dont il faut dire qu'elle est, absolument parlant, supérieure à la vie active. Ce dont Aristote donne huit raisons. 1° La vie Contemplative convient à l'homme selon ce qu'il i a de meilleur en lui, qui est l'intelligence, et à .'égard de l'objet propre de l'intelligence, que sont es intelligibles. La vie active, elle, est occupée de choses extérieures. Aussi le nom de Rachel, figure le la vie contemplative, s'interprète-t-il: le principe vu, tandis que la vie active est figurée ,par Lia aux yeux malades, selon S. Grégoire. - 2° La vie contemplative peut durer plus longtemps, quoique non pas dans son degré suprême, nous l'avons établie. Aussi nous montre-t-on Marie figure de la vie contemplative, assise;ans bouger aux pieds du Seigneur. - 3° Il y a plus de délectation dans la vie contemplative, que dans la vie active. D'où la parole de S. Augustin: Marthe s'agitait, Marie festoyait. " 4° Dans la aie contemplative l'homme se suffit davantage à lui-même, ayant besoin de moins de choses pour s’y livrer. D'où cette parole - " Marthe, Marthe,:u t'inquiètes et te troubles pour beaucoup de choses. " 5° La vie contemplative est davantage aimée pour elle-même, tandis que la vie active est ordonnée à autre chose. " J'ai demandé au Seigneur une seule chose, est-il écrit, et c'est elle que j'entends poursuivre, qui est d'habiter la maison du Seigneur tous les jours de ma vie, pour voir les délices du Seigneur " (Ps 27, 4). - 6° La vie contemplative se présente comme un loisir et un repos selon le Psaume (46, 11): " Donnez-vous du loisir et voyez que je suis Dieu. " - 7° La vie contemplative concerne le divin, la vie active concerne l'humain. " Au commencement était le Verbe, écrit S. Augustin: Voilà celui que Marie écoutait. Le Verbe s'est fait chair: Voilà celui que Marthe servait. " - 8° La vie contemplative appartient à ce qu'il y a de proprement humain dans l'homme, c'est-à-dire à l'intelligence, tandis que les facultés inférieures, communes à l'homme et à la bête, ont part aux opérations de la vie active. D'où le Psaume (36, 7.10) après avoir dit: " Tu sauveras, Seigneur les hommes et les bêtes ", ajoute ceci, qui est spécial à l'homme: " Dans ta lumière nous verrons la lumière. " 9° Une autre raison, ajoutée par le Seigneur, s'appuie sur Luc (10, 42): " Marie a choisi la meilleur part. Elle ne lui sera pas ôtée. " Et S. Augustin explique: " Tu n'en as pas choisi une mauvaise, mais elle, une meilleure, car elle ne lui sera pas ôtée. Un jour on te retirera les nécessités de la vie; la douceur de la vérité est éternelle ! " 
+
+Mais d'un point de vue particulier et dans un cas donné, à cause des nécessités de la vie présente, il arrive que la vie active doive être choisie de préférence. Même Aristote le reconnaît: " Il vaut mieux philosopher que gagner de l'argent; mais pour celui qui est dans le besoin, gagner de l'argent est préférable. " 
+
+###### ad 1
+Les prélats ne sont pas appelés uniquement à exercer la vie active. Ils doivent aussi exceller dans la vie contemplative. C'est ce que dit S. Grégoire: " Que celui qui commande soit au premier rang dans l'action et, plus que tous les autres, absorbé dans la contemplation. " 
+
+###### ad 2
+La vie contemplative consiste en une certaine liberté de l'âme. S. Grégoire écrit en effet: " La vie contemplative passe à une certaine liberté d'esprit lorsqu'elle médite non les réalités temporelles, mais les éternelles. " Et Boèce: " Les âmes humaines deviennent nécessairement plus libres quand elles s'établissent dans la contemplation de l'intelligence divine et moins libres quand elles s'affaissent vers les corps. " Cela montre bien que la vie active ne commande pas directement à la vie contemplative. Mais, en y disposant, elle prescrit certaines oeuvres de la vie active, et en cela elle sert la vie contemplative plus qu'elle ne lui commande. C'est ce que dit S. Grégoire: " La vie active est nommée un service, et la vie contemplative une liberté. " 
+
+###### ad 3
+Il arrive en effet que l'on soit arraché à la contemplation en vue de pourvoir à quelque nécessité de la vie présente. Pas à tel point cependant qu'on doive délaisser entièrement la contemplation. Aussi S. Augustin écrit-il: " L'amour de la vérité aspire au saint loisir; les nécessités de la charité imposent le juste travail ", c'est-à-dire celui de la vie active. " Si nul ne nous met sur les épaules ce fardeau, il n'y a qu'à vaquer à la recherche et à la contemplation de la vérité. Si on nous l'impose, la charité exige que nous le portions. Mais, même dans ce cas, nous ne devons pas délaisser entièrement la délectation de la vérité, si nous ne voulons pas être privés de cette suavité et écrasés par cette nécessité. " Cela montre que, lorsque l'on est arraché à la vie contemplative pour être appliqué à la vie active, il ne s'agit pas d'abandonner la contemplation, mais d'y joindre l'action. 
+

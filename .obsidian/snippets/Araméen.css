@@ -1,0 +1,16 @@
+
+/* for paragraph */
+.markdown-preview-view.araméen h6 {
+  font-size: 1.8em;
+  position: relative;
+  top: 2.25em;
+  margin-top: -2.5em;
+  right: 0;
+}
+
+
+/* for paragraph */
+.markdown-preview-view.araméen p {
+  font-size: 1.5em;
+  padding-right: 3em;
+}

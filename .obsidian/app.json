@@ -1,0 +1,22 @@
+{
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldHeading": false,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "fileSortOrder": "alphabetical",
+  "communityThemeSortOrder": "download",
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "showInlineTitle": false,
+  "spellcheck": false
+}

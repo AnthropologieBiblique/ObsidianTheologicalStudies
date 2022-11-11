@@ -1,0 +1,67 @@
+---
+bibleKeys : 
+- ad Galatas 5
+- Galates 5
+- Ga 5
+- Galatians 5
+tags : 
+- Bible/Ga/5
+- latin
+cssclass : latin
+direction : ltr
+---
+
+# ad Galatas 5
+
+###### 1
+State, et nolite iterum jugo servitutis contineri.
+###### 2
+Ecce ego Paulus dico vobis : quoniam si circumcidamini, Christus vobis nihil proderit.
+###### 3
+Testificor autem rursus omni homini circumcidenti se, quoniam debitor est universæ legis faciendæ.
+###### 4
+Evacuati estis a Christo, qui in lege justificamini : a gratia excidistis.
+###### 5
+Nos enim spiritu ex fide, spem justitiæ exspectamus.
+###### 6
+Nam in Christo Jesu neque circumcisio aliquid valet, neque præputium : sed fides, quæ per caritatem operatur.
+###### 7
+Currebatis bene : quis vos impedivit veritati non obedire ?
+###### 8
+persuasio hæc non est ex eo, qui vocat vos.
+###### 9
+Modicum fermentum totam massam corrumpit.
+###### 10
+Ego confido in vobis in Domino, quod nihil aliud sapietis : qui autem conturbat vos, portabit judicium, quicumque est ille.
+###### 11
+Ego autem, fratres, si circumcisionem adhuc prædico : quid adhuc persecutionem patior ? ergo evacuatum est scandalum crucis.
+###### 12
+Utinam et abscindantur qui vos conturbant.
+###### 13
+Vos enim in libertatem vocati estis, fratres : tantum ne libertatem in occasionem detis carnis, sed per caritatem Spiritus servite invicem.
+###### 14
+Omnis enim lex in uno sermone impletur : Diliges proximum tuum sicut teipsum.
+###### 15
+Quod si invicem mordetis, et comeditis : videte ne ab invicem consumamini.
+###### 16
+Dico autem : Spiritu ambulate, et desideria carnis non perficietis.
+###### 17
+Caro enim concupiscit adversus spiritum, spiritus autem adversus carnem : hæc enim sibi invicem adversantur, ut non quæcumque vultis, illa faciatis.
+###### 18
+Quod si Spiritu ducimini, non estis sub lege.
+###### 19
+Manifesta sunt autem opera carnis, quæ sunt fornicatio, immunditia, impudicitia, luxuria,
+###### 20
+idolorum servitus, veneficia, inimicitiæ, contentiones, æmulationes, iræ, rixæ, dissensiones, sectæ,
+###### 21
+invidiæ, homicidia, ebrietates, comessationes, et his similia, quæ prædico vobis, sicut prædixi : quoniam qui talia agunt, regnum Dei non consequentur.
+###### 22
+Fructus autem Spiritus est caritas, gaudium, pax, patientia, benignitas, bonitas, longanimitas,
+###### 23
+mansuetudo, fides, modestia, continentia, castitas. Adversus hujusmodi non est lex.
+###### 24
+Qui autem sunt Christi, carnem suam crucifixerunt cum vitiis et concupiscentiis.
+###### 25
+Si Spiritu vivimus, Spiritu et ambulemus.
+###### 26
+Non efficiamur inanis gloriæ cupidi, invicem provocantes, invicem invidentes.

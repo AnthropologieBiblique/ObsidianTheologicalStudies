@@ -1,0 +1,44 @@
+---
+bibleKeys : 
+- Psaumes 144
+- Ps 144
+- Psalms 144
+tags : 
+- Bible/Ps/144
+- français
+cssclass : français
+direction : ltr
+---
+
+# Psaumes (144) 143
+
+###### 1
+Béni soit le Seigneur, mon rocher ! + Il exerce mes mains pour le combat, * il m'entraîne à la bataille.
+###### 2
+Il est mon allié, ma forteresse, ma citadelle, celui qui me libère ; il est le bouclier qui m'abrite, il me donne pouvoir sur mon peuple.
+###### 3
+Qu'est-ce que l'homme, pour que tu le connaisses, Seigneur, le fils d'un homme, pour que tu comptes avec lui ?
+###### 4
+L'homme est semblable à un souffle, ses jours sont une ombre qui passe.
+###### 5
+Seigneur, incline les cieux et descends ; touche les montagnes : qu'elles brûlent !
+###### 6
+Décoche des éclairs de tous côtés, tire des flèches et répands la terreur.
+###### 7
+Des hauteurs, tends-moi la main, délivre-moi, * sauve-moi du gouffre des eaux, de l'emprise d'un peuple étranger :
+###### 8
+il dit des paroles mensongères, sa main est une main parjure.
+###### 9
+Pour toi, je chanterai un chant nouveau, pour toi, je jouerai sur la harpe à dix cordes,
+###### 10
+pour toi qui donnes aux rois la victoire et sauves de l'épée meurtrière David, ton serviteur.
+###### 11
+Délivre-moi, sauve-moi de l'emprise d'un peuple étranger : il dit des paroles mensongères, sa main est une main parjure.
+###### 12
+Que nos fils soient pareils à des plants bien venus dès leur jeune âge ; * nos filles, pareilles à des colonnes sculptées pour un palais !
+###### 13
+Nos greniers, remplis, débordants, regorgeront de biens ; * les troupeaux, par milliers, par myriades, empliront nos campagnes !
+###### 14
+Nos vassaux nous resteront soumis, plus de défaites ; * plus de brèches dans nos murs, plus d'alertes sur nos places !
+###### 15
+Heureux le peuple ainsi comblé ! Heureux le peuple qui a pour Dieu « Le Seigneur » !

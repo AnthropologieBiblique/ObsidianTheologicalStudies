@@ -1,0 +1,119 @@
+{
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-citation-plugin:insert-markdown-citation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "templater-obsidian:Gabarits/TestGabarit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:Gabarits/TestGabarit Bible.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:Gabarits/Citation Bible.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "templater-obsidian:Gabarits/Citation Bible Express.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:Gabarits/Test choix fichier.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:Gabarits/Choix dossier et fichier.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:Gabarits/Regex machine.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:Gabarits/Bible Ref Finder/Regex machine.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:Templates/Bible quoting/Express bible quote.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:Templates/Bible quoting/Detailed bible quote.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}
