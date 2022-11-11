@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31f8076e4310298d",
+        "id": "7170a198ce8e4fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "5f37a1b7c9013b2d",
+            "id": "4add99dd3fe44d67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS & CREDITS.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINKS & CREDITS.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS & CREDITS.md"
+                "file": "README.md"
               }
             }
           }
@@ -117,9 +117,10 @@
     "width": 507.5,
     "collapsed": true
   },
-  "active": "5f37a1b7c9013b2d",
+  "active": "4add99dd3fe44d67",
   "lastOpenFiles": [
     "README.md",
+    "LINKS & CREDITS.md",
     "Templates/Bible quoting/Detailed bible quote.md",
     "Templates/Bible quoting/Express bible quote.md",
     "Demo/Showcase/Sandbox Detailed quote.md",
@@ -127,7 +128,6 @@
     "Demo/Tour/Chapter 2.md",
     "Demo/Showcase/Sandbox express quote.md",
     "Demo/Showcase/Standard Bible & Other Bibles.md",
-    "Demo/Tour/Chapter 1.md",
-    "Bible/PST/Livres/Jean/PST Jn 1.md"
+    "Demo/Tour/Chapter 1.md"
   ]
 }
