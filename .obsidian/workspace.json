@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LINKS & CREDITS.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "LINKS & CREDITS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "LINKS & CREDITS.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "5f37a1b7c9013b2d",
   "lastOpenFiles": [
+    "README.md",
     "Templates/Bible quoting/Detailed bible quote.md",
     "Templates/Bible quoting/Express bible quote.md",
     "Demo/Showcase/Sandbox Detailed quote.md",
@@ -127,7 +128,6 @@
     "Demo/Showcase/Sandbox express quote.md",
     "Demo/Showcase/Standard Bible & Other Bibles.md",
     "Demo/Tour/Chapter 1.md",
-    "Bible/PST/Livres/Jean/PST Jn 1.md",
-    "README.md"
+    "Bible/PST/Livres/Jean/PST Jn 1.md"
   ]
 }
