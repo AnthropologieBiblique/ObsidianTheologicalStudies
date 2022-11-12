@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7170a198ce8e4fe9",
+        "id": "31f8076e4310298d",
         "type": "tabs",
         "children": [
           {
-            "id": "4add99dd3fe44d67",
+            "id": "5f37a1b7c9013b2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,17 +117,17 @@
     "width": 507.5,
     "collapsed": true
   },
-  "active": "4add99dd3fe44d67",
+  "active": "5f37a1b7c9013b2d",
   "lastOpenFiles": [
+    "Demo/Tour/Conclusion.md",
+    "LINKS & CREDITS.md",
     "Demo/Tour/Chapter 4.md",
     "Demo/Showcase/Work on inspiration.md",
-    "README.md",
-    "LINKS & CREDITS.md",
-    "Templates/Bible quoting/Detailed bible quote.md",
-    "Templates/Bible quoting/Express bible quote.md",
-    "Demo/Showcase/Sandbox Detailed quote.md",
-    "Bible/AELF/Livres/Éphésiens/Ep 4.md",
+    "Demo/Tour/Chapter 3.md",
+    "Bible/COM/Livres/Jean/COM Jn 1.md",
+    "Bible/AELF/Livres/Jean/Jn 1.md",
     "Demo/Tour/Chapter 2.md",
-    "Demo/Showcase/Sandbox express quote.md"
+    "Demo/Showcase/Sandbox express quote.md",
+    "Demo/Showcase/Standard Bible & Other Bibles.md"
   ]
 }
